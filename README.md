@@ -4,9 +4,10 @@ This section, includes a simple program capable of performing basic operations i
 # Instruction Guide
 1. Download [QtSpim](https://spimsimulator.sourceforge.net)
 2. Open QtSpim
-3. Go to Section **File** | **Reinitialize and Load File**
-4. Choose File
-5. Press **Run/Continue**
+3. Donwnload *[Hex Calculator.s](Hex%20Calculator.s)*
+4. Go to Section **File** | **Reinitialize and Load File**
+5. Choose File *[Hex Calculator.s](Hex%20Calculator.s)*
+6. Press **Run/Continue**
 
 # Operation Catalogue
 - Addition
